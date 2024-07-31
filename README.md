@@ -1,6 +1,6 @@
+<span><img src="images\img.png">
+<img src="images\pngegg (4).png"></span>
 # This repo is for Practice Flask-SQLalchemy
-
-![pngegg (3)](images/pngegg (3))
 
 1. Clone this Repo -:
    
