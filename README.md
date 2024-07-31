@@ -1,7 +1,6 @@
 # This repo is for Practice Flask-SQLalchemy
-<img width="100" height="100" src="https://img.icons8.com/ios-filled/100/FFFFFF/database.png" alt="database"/>
-<img width="250" height="250" src="https://img.icons8.com/ios/50/FFFFFF/flask.png" alt="flask"/>
-<img src="https://www.pngegg.com/en/search?q=sqlalchemy">
+
+![pngegg (3)](images/pngegg (3))
 
 1. Clone this Repo -:
    
