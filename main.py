@@ -34,7 +34,7 @@ class Cources(db.Model):
 def f1():
     #var11=Cources.query.filter_by(c_name="btech cse").all()
     if request.method=="GET":
-        return render_template("text.html",title="Login As -:")
+        return render_template("index.html",title="Login As -:")
     
 @app.route("/student.html",methods=["GET","POST"])
 def f2():
