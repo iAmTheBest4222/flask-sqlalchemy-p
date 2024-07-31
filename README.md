@@ -1,5 +1,4 @@
-<span><img src="images\img.png">
-<img src="images\pngegg (4).png"></span>
+<span><img src="images\img.png"></span>
 # This repo is for Practice Flask-SQLalchemy
 
 1. Clone this Repo -:
