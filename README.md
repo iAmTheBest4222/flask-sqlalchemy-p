@@ -7,7 +7,7 @@
 
 2. Install Requirements -:
 
-` install -r req.txt `
+` pip install -r req.txt `
 
 3. Run in Terminal
 
